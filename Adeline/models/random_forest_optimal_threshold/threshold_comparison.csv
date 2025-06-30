@@ -1,0 +1,5 @@
+Metric,Default Threshold (0.5),Optimal Threshold (0.350)
+Sensitivity (Recall for Churned),0.4159634317862166,0.6255274261603375
+Specificity (Recall for Stayed),0.8802403577417551,0.7910844046953606
+Precision for Churned,0.5799019607843138,0.5433720219914477
+F1 Score for Churned,0.4844389844389844,0.5815626021575678
